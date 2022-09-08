@@ -87,7 +87,7 @@ Open `api.js` in the frontend app and change the baseURL into backend api DNS th
 
 ![](/media/day2/Screenshot%20(129).png)
 
-Setup the backend reverse proxy
+Setup the backend reverse proxy and multilevel domain
 
 ![](/media/day2/Screenshot%20(128).png)
 
