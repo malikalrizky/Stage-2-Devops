@@ -52,9 +52,11 @@ Connect and remote between server
 
 ### Install the App and PM2
 
-Install the app like usual
+Install nvm and pm2 first if there's none
 
 ![](/media/day1/Screenshot%20(72).png)
+
+Install the app
 
 ![](/media/day1/Screenshot%20(73).png)
 

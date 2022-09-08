@@ -36,7 +36,7 @@ Change database config bind address to `0.0.0.0` so it could be accessed from al
 
 ### Setup Backend Server and Integration to Database
 
-Install the app like usual
+Install the app like before
 
 ![](/media/day2/Screenshot%20(90).png)
 
