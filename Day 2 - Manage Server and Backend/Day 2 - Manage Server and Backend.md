@@ -103,22 +103,22 @@ Try to access the web server and register
 
 Open cloudflare and copy the API Key into a new file
 
-![](/media/day2/Screenshot%20(105).png)
+![](/media/certbot/Screenshot%20(105).png)
 
-![](/media/day2/Screenshot%20(106).png)
+![](/media/certbot/Screenshot%20(106).png)
 
-![](/media/day2/Screenshot%20(107).png)
+![](/media/certbot/Screenshot%20(107).png)
 
 Make sure to give the user a read permission for the file
 
-![](/media/day2/Screenshot%20(108).png)
+![](/media/certbot/Screenshot%20(108).png)
 
 Install and setup CertBot with Cloudflare
 
-![](/media/day2/Screenshot%20(125).png)
+![](/media/certbot/Screenshot%20(125).png)
 
-![](/media/day2/Screenshot%20(126).png)
+![](/media/certbot/Screenshot%20(126).png)
 
 Check the certificate
 
-![](/media/day2/Screenshot%20(121).png)
+![](/media/certbot/Screenshot%20(121).png)
