@@ -101,7 +101,11 @@ Try to access the web server and register
 
 ### Setup SSL using CertBot and CloudFlare API Token
 
-Open cloudflare and copy the API Key into a new file
+SSL (Secure Socket Layer) is a technology for keeping an internet connection secure and safeguarding any sensitive data that is being sent between two systems, preventing criminals from reading and modifying any information transferred, including potential personal details.
+
+CertBot is something like a plugin that automatically create SSL certificate for web server.
+
+`Open cloudflare and copy the API Key into a new file`
 
 ![](/media/certbot/Screenshot%20(105).png)
 
@@ -109,16 +113,16 @@ Open cloudflare and copy the API Key into a new file
 
 ![](/media/certbot/Screenshot%20(107).png)
 
-Make sure to give the user a read permission for the file
+`Make sure to give the user a read permission for the file`
 
 ![](/media/certbot/Screenshot%20(108).png)
 
-Install and setup CertBot with Cloudflare
+`Install and setup CertBot with Cloudflare`
 
 ![](/media/certbot/Screenshot%20(125).png)
 
 ![](/media/certbot/Screenshot%20(126).png)
 
-Check the certificate
+`Check the certificate`
 
 ![](/media/certbot/Screenshot%20(121).png)
