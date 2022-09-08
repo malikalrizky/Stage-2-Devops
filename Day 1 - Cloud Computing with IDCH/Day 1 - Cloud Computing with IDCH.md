@@ -54,6 +54,8 @@ Connect and remote between server
 
 Install nvm and pm2 first if there's none
 
+The purpose of the ecosystem file is to gather all options and environment variables for all your applications.
+
 ![](/media/day1/Screenshot%20(72).png)
 
 Install the app
