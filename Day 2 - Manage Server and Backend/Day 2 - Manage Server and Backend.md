@@ -121,6 +121,10 @@ CertBot is something like a plugin that automatically create SSL certificate for
 
 ![](/media/certbot/Screenshot%20(125).png)
 
+```
+sudo certbot certonly --dns-cloudflare --dns-cloudflare-credentials [file] -d [web] --preferred-challenges dns-01
+```
+
 ![](/media/certbot/Screenshot%20(126).png)
 
 `Check the certificate`
