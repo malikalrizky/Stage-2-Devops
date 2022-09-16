@@ -28,7 +28,7 @@ docker -v
 
 ## Frontend App in Docker
 
-### Buat file bernama Dockerfile dan masukkan konfigurasi di bawah ini
+### Clone aplikasi lalu buat file bernama Dockerfile pada folder aplikasi dan masukkan konfigurasi di bawah ini
 
 ```
 FROM node:[version]
