@@ -26,8 +26,6 @@ sudo apt-get -y install docker-ce docker-ce-cli containerd.io docker-compose-plu
 docker -v
 ```
 
-![](/media/day3/14.png)
-
 ## Frontend App in Docker
 
 ### Buat file bernama Dockerfile dan masukkan konfigurasi di bawah ini
